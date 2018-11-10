@@ -1,0 +1,4 @@
+s = "Today Is A Beautiful DAY"
+
+print (s.upper())
+print (s .lower())
